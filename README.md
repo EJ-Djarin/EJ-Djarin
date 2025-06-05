@@ -34,8 +34,7 @@ Cargando...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EJ-Djarin&theme=tokyonight)](https://wakatime.com)
-
+[![Proyecto 1](https://img.shields.io/badge/Ver-Proyecto_1-blue?style=for-the-badge)](https://github.com/EJ-Djarin/Crea_CV)
 
 
 
