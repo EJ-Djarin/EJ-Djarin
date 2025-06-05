@@ -31,6 +31,8 @@ Cargando...
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EJ-Djarin&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Djarin&layout=compact&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
+
 ---
 
 ## 📬 Contacto
