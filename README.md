@@ -34,6 +34,9 @@ Cargando...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EJ-Djarin&theme=tokyonight)](https://wakatime.com)
+
+
 
 
 
