@@ -34,7 +34,7 @@ Cargando...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
 
-![Es de noche](https://img.shields.io/badge/Estado-Noche%20en%20mi%20zona-blueviolet?style=for-the-badge&logo=moon)
+
 
 
 
