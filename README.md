@@ -29,9 +29,13 @@ Cargando...
 ## 📈 Mis estadísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EJ-Djarin&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Djarin&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
+
+[![EJ-Djarin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EJ-Djarin&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
