@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Joshua Cambronero (`EJ-Djarin`)
 
-Soy estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Costa Rica y de **Derecho** en la Universidad Castro Carazo. También soy **emprendedor**, **líder juvenil cristiano** y un apasionado por la tecnología, el desarrollo web y los proyectos con impacto.
+Soy estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Costa Rica y de **Derecho** en la Universidad Castro Carazo. También soy un apasionado por la tecnología y el desarrollo web.
 
 ---
 
