@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Joshua Cambronero (`EJ-Djarin`)
 
-<!--
-**EJ-Djarin/EJ-Djarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Costa Rica y de **Derecho** en la Universidad Castro Carazo. También soy **emprendedor**, **líder juvenil cristiano** y un apasionado por la tecnología, el desarrollo web y los proyectos con impacto.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Sobre mí
+
+- 🎓 Estudiante universitario de dos carreras (Sistemas y Derecho)
+- 💼 Experiencia en proyectos como generadores de CVs, sistemas web y automatización
+- 📡 Apasionado por el IoT, MicroPython y automatización agrícola
+- 🌱 En constante aprendizaje y desarrollo personal
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+Cargando...
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Crea_CV](https://github.com/EJ-Djarin/Crea_CV) | Web para crear currículums automáticamente con datos personales y habilidades blandas. | HTML, CSS, JS |
+
+---
+
+## 📈 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EJ-Djarin&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EJ-Djarin&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Contacto
+- ✉️ **Correo**: prograejoshua@email.com 
+- 📍 **Ubicación**: Pérez Zeledón, Costa Rica
+---
+
+> Cargando...
+
