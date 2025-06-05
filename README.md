@@ -7,7 +7,6 @@ Soy estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Cost
 ## ✨ Sobre mí
 
 - 🎓 Estudiante universitario de dos carreras (Sistemas y Derecho)
-- 💼 Experiencia en proyectos como generadores de CVs, sistemas web y automatización
 - 📡 Apasionado por el IoT, MicroPython y automatización agrícola
 - 🌱 En constante aprendizaje y desarrollo personal
 
