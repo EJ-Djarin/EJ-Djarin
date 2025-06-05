@@ -34,8 +34,7 @@ Cargando...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub followers](https://img.shields.io/github/followers/EJ-Djarin?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/EJ-Djarin?style=social)
+
 
 
 ---
