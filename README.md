@@ -34,6 +34,9 @@ Cargando...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EJ-Djarin&theme=tokyonight)](https://git.io/streak-stats)
 
+![Profile Views](https://komarev.com/ghpvc/?username=EJ-Djarin)
+
+
 
 
 
