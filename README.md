@@ -23,7 +23,7 @@ Cargando...
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | [Crea_CV](https://github.com/EJ-Djarin/Crea_CV) | Web para crear currículums automáticamente con datos personales y habilidades blandas. | HTML, CSS, JS |
-| [Crea_CV](https://github.com/EJ-Djarin/Reserva_Cine) | Un sistema en C++ para reservar y cancelar espacios en un cine. | C++,HTML|
+| [Reserva_Cine](https://github.com/EJ-Djarin/Reserva_Cine) | Un sistema en C++ para reservar y cancelar espacios en un cine. | C++,HTML|
 
 
 
