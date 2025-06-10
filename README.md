@@ -48,7 +48,7 @@ Cargando...
 ---
 
 ## 📬 Contacto
-- ✉️ **Correo**: prograejoshua@email.com 
+- ✉️ **Correo**: prograejoshua@gmail.com 
 - 📍 **Ubicación**: Pérez Zeledón, Costa Rica
 ---
 
