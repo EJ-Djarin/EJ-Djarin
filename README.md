@@ -24,6 +24,7 @@ Cargando...
 |---------|-------------|-------------|
 | [Crea_CV](https://github.com/EJ-Djarin/Crea_CV) | Web para crear currículums automáticamente con datos personales y habilidades blandas. | HTML, CSS, JS |
 | [Reserva_Cine](https://github.com/EJ-Djarin/Reserva_Cine) | Un sistema en C++ para reservar y cancelar espacios en un cine. | C++,HTML|
+| [Conversor_de_temperatura](https://github.com/EJ-Djarin/Conversor_de_temperatura) | Un sistema en Python para convertir unidades diferentes de temperatura. | C++,HTML|
 
 
 
